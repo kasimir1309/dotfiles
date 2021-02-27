@@ -1,6 +1,15 @@
 # Dotfiles
 
-# Symbolic links
+## Checkout the repo
+
+```
+cd ~/
+git clone git@github.com:kasimir1309/dotfiles.git
+mv dotfiles .dotfiles
+
+```
+
+## Symbolic links
 
 ```bash
 cd ~/
