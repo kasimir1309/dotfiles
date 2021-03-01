@@ -15,6 +15,7 @@ mv dotfiles .dotfiles
 cd ~/
 ln -s .dotfiles/.tmux.conf .tmux.conf
 ln -s .dotfiles/.zshrc .zshrc
+ln -s .dotfiles/.fzf.zsh .fzf.zsh
 
 cd ~/.config/
 ln -s ../.dotfiles/nvim nvim
