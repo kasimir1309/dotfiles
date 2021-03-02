@@ -133,3 +133,9 @@ bindkey -s '\eh' 'tmux select-pane -L\n'
 bindkey -s '\el' 'tmux select-pane -R\n'
 bindkey -s '\ej' 'tmux select-pane -D\n'
 bindkey -s '\ek' 'tmux select-pane -U\n'
+
+# If you want use some different settings on some mashines use ~/.fzfrc_local
+[ -f ~/.fzfrc_local ] && source ~/.fzfrc_local
+
+# Use .aliases file for alias entries
+[ -f ~/.aliases ] && source ~/.aliases
