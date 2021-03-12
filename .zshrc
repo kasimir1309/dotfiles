@@ -139,3 +139,6 @@ bindkey -s '\ek' 'tmux select-pane -U\n'
 
 # Use .aliases file for alias entries
 [ -f ~/.aliases ] && source ~/.aliases
+
+
+[ -f ~/.aliases ] && export PATH="/home/$USER/.apps:$PATH"
