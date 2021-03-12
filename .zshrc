@@ -141,4 +141,4 @@ bindkey -s '\ek' 'tmux select-pane -U\n'
 [ -f ~/.aliases ] && source ~/.aliases
 
 
-[ -f ~/.aliases ] && export PATH="/home/$USER/.apps:$PATH"
+[ -d /home/$USER/.apps ] && export PATH="/home/$USER/.apps:$PATH"
