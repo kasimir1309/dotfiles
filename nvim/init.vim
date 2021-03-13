@@ -279,9 +279,9 @@ let g:vifm_replace_netrw_cmd = "Vifm"
 
 "let g:vifm_exec_args =
 "
-nmap <leader>. :<C-w>h<CR>:TabVifm ./<CR>
+"nmap <leader>. :<C-w>h<CR>:TabVifm ./<CR>
 
 
-"nmap <leader>. :<C-w>s<CR>:<C-w>j<CR>:TabVifm<CR>
+nmap <leader>. <C-w>s<C-w><Down><ESC>:TabVifm<CR>
 
 
