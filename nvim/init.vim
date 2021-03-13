@@ -267,7 +267,6 @@ set relativenumber  " Numbers are counted vom the postiion you cursor is in file
 
 "set statusline=%<%f\ %h%m%r%{kite#statusline()}%=%-14.(%l,%c%V%)\ %P
 "set laststatus=2  " always display the status line
-"
 nmap <C-j> :VialHttp<CR>
 
 
@@ -281,7 +280,5 @@ let g:vifm_replace_netrw_cmd = "Vifm"
 "
 "nmap <leader>. :<C-w>h<CR>:TabVifm ./<CR>
 
-
+nmap <leader>, :TabVifm<CR>
 nmap <leader>. <C-w>s<C-w><Down><ESC>:TabVifm<CR>
-
-
