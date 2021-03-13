@@ -68,7 +68,7 @@ Plug 'vimwiki/vimwiki'  " Vim wiki plugin
 Plug 'mhinz/vim-startify'  " Startpage for vim
 Plug 'dyng/ctrlsf.vim'   " ag/grep in vim
 Plug 'norcalli/nvim-colorizer.lua'  " Colors in css or scss files
-
+Plug 'vifm/vifm.vim'
 "Plug 'diepm/vim-rest-console'  "Rest client
 
 Plug 'baverman/vial'
@@ -269,3 +269,19 @@ set relativenumber  " Numbers are counted vom the postiion you cursor is in file
 "set laststatus=2  " always display the status line
 "
 nmap <C-j> :VialHttp<CR>
+
+
+
+let g:vifm_replace_netrw = 1
+let g:vifm_replace_netrw_cmd = "Vifm"
+"let g:vifm_embed_term = 1
+"let g:vifm_embed_split = 1
+
+"let g:vifm_exec_args =
+"
+nmap <leader>. :<C-w>h<CR>:TabVifm ./<CR>
+
+
+"nmap <leader>. :<C-w>s<CR>:<C-w>j<CR>:TabVifm<CR>
+
+
