@@ -1,0 +1,724 @@
+# You can edit this file by hand, but it's recommended not to do that.
+
+# Marks:
+'D
+	/home/bach/Downloads
+	190825_seeraeuber04_asl_3328k_p36v14.mp4
+1615496608
+'H
+	/home/bach/
+	..
+1615494153
+'b
+	/home/bach/bin/
+	..
+1615494153
+'c
+	/home/bach/.config
+	vifm
+1615630391
+'d
+	/home/bach/Dokumente
+	..
+1615626202
+'h
+	/home/bach/
+	..
+1615494153
+'p
+	/home/bach/projects
+	restservice
+1615626081
+'s
+	/home/bach/ssh_targets
+	dingo
+1615626100
+
+# Bookmarks:
+
+# TUI:
+al
+q1
+v2
+ov
+m-1
+l2
+r2
+
+# Left window history (oldest to newest):
+d/home/bach/ssh_targets
+	dingo
+1
+d/home/bach/ssh_targets/dingo
+	..
+0
+d/home/bach/ssh_targets
+	dingo
+1
+d/home/bach/ssh_targets/dingo
+	..
+0
+d/home/bach/ssh_targets
+	dingo
+1
+d/home/bach/ssh_targets/dingo
+	..
+0
+d/home/bach/ssh_targets
+	dingo
+1
+d/home/bach
+	ssh_targets
+33
+d/home/bach/ssh_targets
+	dingo.ssh
+2
+d/home/bach/.local/share/vifm/fuse/001_dingo.ssh
+	browserpass-chrome
+12
+d/home/bach
+	ssh_targets
+15
+d/home/bach/ssh_targets
+	dingo
+1
+d/home/bach/ssh_targets/dingo
+	..
+0
+d/home/bach/ssh_targets
+	dingo
+1
+d/home/bach
+	ssh_targets
+15
+d/home/bach/ssh_targets
+	dingo.ssh
+1
+d/home/bach/.local/share/vifm/fuse/001_dingo.ssh
+	Bilder
+1
+d/home/bach/.local/share/vifm/fuse/001_dingo.ssh/Bilder
+	Bildschirmfoto von 2020-01-31 16-53-44.png
+8
+d/home/bach/.local/share/vifm/fuse/001_dingo.ssh
+	Bilder
+1
+d/home/bach/ssh_targets
+	dingo.ssh
+1
+d/home/bach
+	ssh_targets
+15
+d/home/bach/ssh_targets
+	dingo.ssh
+1
+d/home/bach/.local/share/vifm/fuse/001_dingo.ssh
+	Enpass
+4
+d/home/bach/.local/share/vifm/fuse/001_dingo.ssh/Enpass
+	..
+0
+d/home/bach/.local/share/vifm/fuse/001_dingo.ssh
+	Enpass
+4
+d/home/bach
+	projects
+13
+d/home/bach/ssh_targets
+	dingo.ssh
+1
+d/home/bach/.local/share/vifm/fuse/001_dingo.ssh
+	Musik
+5
+d/home/bach/.local/share/vifm/fuse/001_dingo.ssh/Musik
+	..
+0
+d/home/bach/.local/share/vifm/fuse/001_dingo.ssh
+	Projects
+6
+d/home/bach/.local/share/vifm/fuse/001_dingo.ssh/Projects
+	..
+0
+d/home/bach/.local/share/vifm/fuse/001_dingo.ssh
+	Projects
+6
+d/home/bach/.local/share/vifm/fuse/001_dingo.ssh/Projects
+	GraphQl
+2
+d/home/bach/.local/share/vifm/fuse/001_dingo.ssh/Projects/GraphQl
+	..
+0
+d/home/bach/.local/share/vifm/fuse/001_dingo.ssh/Projects
+	R-Markdown-Example
+2
+d/home/bach/.local/share/vifm/fuse/001_dingo.ssh
+	dumps
+14
+d/home/bach/.local/share/vifm/fuse/001_dingo.ssh/dumps
+	..
+0
+d/home/bach/.local/share/vifm/fuse/001_dingo.ssh
+	nltk_data
+22
+d/home/bach
+	backup.sh
+17
+d/home
+	bach
+1
+d/
+	home
+5
+d/home/bach
+	.config
+5
+d/home/bach/.config
+	vifm
+33
+d/home/bach/.config/vifm
+	vifmrc
+5
+d/home/bach/.config
+	vifm
+31
+d/home/bach
+	Musik
+4
+d/home/bach/Musik
+	07 - Bitte bleib.mp3
+7
+d/home/bach
+	ssh_targets
+15
+d/home/bach/ssh_targets
+	dingo.ssh
+1
+d/home/bach
+	ssh_targets
+15
+d/home/bach/ssh_targets
+	dingo.ssh
+1
+d/home/bach
+	ssh_targets
+15
+d/home/bach/ssh_targets
+	nextcloudpi.ssh
+2
+d/home/bach/.local/share/vifm/fuse/001_nextcloudpi.ssh
+	..
+0
+d/home/bach/ssh_targets
+	nextcloudpi.ssh
+2
+d/home/bach/.local/share/vifm/fuse/001_nextcloudpi.ssh
+	..
+0
+d/home/bach/ssh_targets
+	nextcloudpi.ssh
+2
+d/home/bach/.local/share/vifm/fuse/001_nextcloudpi.ssh
+	..
+0
+d/home/bach/ssh_targets
+	..
+0
+d/home/bach
+	ssh_targets
+15
+d/home/bach/ssh_targets
+	dingo.ssh
+1
+d/home/bach/.local/share/vifm/fuse/001_dingo.ssh
+	Simple-Files
+8
+d/home/bach/.local/share/vifm/fuse/001_dingo.ssh/Simple-Files
+	Anwender-Import-Beispiel.xlsx
+1
+d/home/bach/.local/share/vifm/fuse/001_dingo.ssh
+	apps
+11
+d/home/bach/ssh_targets
+	dingo.ssh
+1
+d/home/bach
+	ssh_targets
+15
+d/home/bach/ssh_targets
+	dingo.ssh
+2
+d/home/bach/.local/share/vifm/fuse/001_dingo.ssh
+	Vorlagen
+10
+d/home/bach/ssh_targets
+	dingo.ssh
+2
+d/home/bach
+	anaconda3
+8
+d/home/bach/anaconda3
+	..
+0
+d/home/bach
+	Musik
+4
+d/home/bach/Musik
+	..
+0
+d/home/bach
+	Öffentlich
+16
+d/home
+	bach
+1
+d/home/bach
+	fzf-bluetooth-connect
+10
+d/home
+	bach
+1
+d/
+	root
+15
+d/home/bach
+	Bilder
+1
+d/home/bach/Bilder
+	Bildschirmfoto vom 2021-01-18 11-31-06.png
+6
+d/home/bach
+	Dokumente
+2
+d/home/bach/Dokumente
+	ARH-1610459871 Karsten Bach (ARH) - PandaDoc.html
+5
+d/home/bach
+	.config
+4
+d/home/bach/.config
+	vifm
+31
+d/home/bach/.config/vifm
+	vifmrc
+5
+d/home/bach/.config
+	vifm
+31
+d/home/bach/.config/vifm
+	vifmrc
+5
+d/home/bach/.config
+	vifm
+31
+d/home/bach
+	.config
+4
+d/home/bach/.config
+	vifm
+31
+d/home/bach/.config/vifm
+	vifmrc
+5
+d/home/bach
+	.config
+4
+d/home/bach/.config
+	vifm
+31
+d/home/bach/.config/vifm
+	vifmrc
+5
+d/home/bach
+	Bilder
+1
+d/home/bach/Bilder
+	Bildschirmfoto von 2021-02-14 09-59-32.png
+7
+d/home/bach
+	Downloads
+3
+d/home/bach/Downloads
+	browserpass-linux64-3.0.7
+3
+d/home/bach/Downloads/browserpass-linux64-3.0.7
+	..
+0
+d/home/bach/Downloads
+	190818_seeraeuber03_asl_3328k_p36v14.mp4
+4
+d
+
+# Right window history (oldest to newest):
+D/home/bach
+	go
+12
+D/home
+	bach
+1
+D/
+	home
+5
+D/home
+	bach
+1
+D/home/bach
+	Musik
+4
+D/home/bach/Musik
+	03 - Es geht mir gut.mp3
+4
+D/home/bach/ssh_targets
+	dingo
+1
+D/home/bach/ssh_targets/dingo
+	..
+0
+D/home/bach/ssh_targets
+	dingo
+1
+D/home/bach
+	ssh_targets
+16
+D/home/bach/ssh_targets
+	dingo
+1
+D/home/bach/ssh_targets/dingo
+	..
+0
+D/home/bach/ssh_targets
+	dingo
+1
+D/home/bach
+	ssh_targets
+16
+D/home
+	bach
+1
+D/
+	home
+5
+D/home
+	bach
+1
+D/home/bach
+	ssh_targets
+16
+D/home/bach/ssh_targets
+	dingo
+1
+D/home/bach/ssh_targets/dingo
+	..
+0
+D/home/bach/ssh_targets
+	dingo
+1
+D/home/bach/ssh_targets/dingo
+	.config
+7
+D/home/bach/ssh_targets/dingo/.config
+	..
+0
+D/home/bach/ssh_targets/dingo
+	.local
+26
+D/home/bach/ssh_targets/dingo/.local
+	share
+4
+D/home/bach/ssh_targets/dingo/.local/share
+	fonts
+16
+D/home/bach/ssh_targets/dingo/.local/share/fonts
+	..
+0
+D/home/bach/ssh_targets/dingo/.local/share
+	fonts
+16
+D/home/bach/ssh_targets/dingo/.local
+	share
+4
+D/home/bach/ssh_targets/dingo
+	.config
+7
+D/home/bach/ssh_targets/dingo/.config
+	vifm
+33
+D/home/bach/ssh_targets/dingo/.config/vifm
+	vifmrc
+5
+D/home/bach/ssh_targets/dingo/.config
+	vifm
+16
+D/home/bach/ssh_targets/dingo
+	..
+0
+D/home/bach/ssh_targets
+	dingo
+1
+D/home/bach
+	Videos
+7
+D/home/bach/Videos
+	..
+0
+D/home/bach
+	Videos
+7
+D/home
+	bach
+1
+D/
+	home
+5
+D/home/bach
+	Videos
+7
+D/home
+	bach
+1
+D/
+	home
+5
+D
+
+# Command line history (oldest to newest):
+:ssh://bach@192.168.188.29
+:Explorer
+:E
+:Explore
+:Ex
+:h jump-motions
+:h remote
+:touch confgi
+:touch config
+:colorscheme ph
+:colorscheme lucius
+:execute ls -al
+:execute "ls -al"
+:command ls -al
+:command diff
+:cd /home/bach/projects
+:cd /home/bach/ssh_targets && sshfs dingo ./dingo
+:command! sshfs dingo ./dingo
+:execute mountDingo
+:copy vifmrc vifmrc_bak
+:rename
+::q
+:smb
+:e scp://bach@192.168.188.23//home/bach/
+:e scp://bach@192.168.188.23//home/bach/.vimrc
+:q:q
+:run
+:mkdir dingo
+:help
+:exit
+:edit
+:q
+
+# Search history (oldest to newest):
+/home/bach
+/conf
+/ssh
+/vif
+/.config/
+/a
+/Bildsch
+/.confi
+/.conf
+/.config
+
+# Prompt history (oldest to newest):
+pnextcloudpi.ssh
+
+# Local filter history (oldest to newest):
+
+# Registers:
+""/home/bach/.local/share/vifm/Trash/000_Bildschirmfoto von 2021-03-13 09-57-27.png
+
+# Directory stack (oldest to newest):
+
+# Trash content:
+t/home/bach/.local/share/vifm/Trash/000_Alacritty-v0.7.2.dmg
+	/home/bach/Dokumente/Solaranlage/Alacritty-v0.7.2.dmg
+t/home/bach/.local/share/vifm/Trash/000_WLAN-Zugang.pdf
+	/home/bach/Dokumente/WLAN-Zugang.pdf
+t/home/bach/.local/share/vifm/Trash/000_hund
+	/home/bach/hund
+t/home/bach/.local/share/vifm/Trash/000_180726_pippi_asl_3328k_p36v14.mp4
+	/home/bach/Videos/180726_pippi_asl_3328k_p36v14.mp4
+t/home/bach/.local/share/vifm/Trash/000_180911_michel_asl_3328k_p36v14.mp4
+	/home/bach/Videos/180911_michel_asl_3328k_p36v14.mp4
+t/home/bach/.local/share/vifm/Trash/000_190320_pippi_faulsein_asl_3328k_p36v14.mp4
+	/home/bach/Videos/190320_pippi_faulsein_asl_3328k_p36v14.mp4
+t/home/bach/.local/share/vifm/Trash/000_190320_pippi_seeraeuber_asl_3328k_p36v14.mp4
+	/home/bach/Videos/190320_pippi_seeraeuber_asl_3328k_p36v14.mp4
+t/home/bach/.local/share/vifm/Trash/000_190326_pippi_michel_pferde_asl_3328k_p36v14.mp4
+	/home/bach/Videos/190326_pippi_michel_pferde_asl_3328k_p36v14.mp4
+t/home/bach/.local/share/vifm/Trash/000_190716_pippi_ballonfahrt_asl_3328k_p36v14.mp4
+	/home/bach/Videos/190716_pippi_ballonfahrt_asl_3328k_p36v14.mp4
+t/home/bach/.local/share/vifm/Trash/000_190717_michel_ratte_asl_3328k_p36v14.mp4
+	/home/bach/Videos/190717_michel_ratte_asl_3328k_p36v14.mp4
+t/home/bach/.local/share/vifm/Trash/000_190717_michel_suppentopf_asl_3328k_p36v14.mp4
+	/home/bach/Videos/190717_michel_suppentopf_asl_3328k_p36v14.mp4
+t/home/bach/.local/share/vifm/Trash/000_190721_michel_fahnenstange_asl_3328k_p36v14.mp4
+	/home/bach/Videos/190721_michel_fahnenstange_asl_3328k_p36v14.mp4
+t/home/bach/.local/share/vifm/Trash/000_190728_michel_markt_asl_3328k_p36v14.mp4
+	/home/bach/Videos/190728_michel_markt_asl_3328k_p36v14.mp4
+t/home/bach/.local/share/vifm/Trash/000_190804_michel_auktion_asl_3328k_p36v14.mp4
+	/home/bach/Videos/190804_michel_auktion_asl_3328k_p36v14.mp4
+t/home/bach/.local/share/vifm/Trash/000_190804_seeraeuber01_asl_3328k_p36v14.mp4
+	/home/bach/Videos/190804_seeraeuber01_asl_3328k_p36v14.mp4
+t/home/bach/.local/share/vifm/Trash/000_190811_michel_kuh_asl_3328k_p36v14.mp4
+	/home/bach/Videos/190811_michel_kuh_asl_3328k_p36v14.mp4
+t/home/bach/.local/share/vifm/Trash/000_190811_seeraeuber02_asl_3328k_p36v14.mp4
+	/home/bach/Videos/190811_seeraeuber02_asl_3328k_p36v14.mp4
+t/home/bach/.local/share/vifm/Trash/000_190818_michel_zahn_asl_3328k_p36v14.mp4
+	/home/bach/Videos/190818_michel_zahn_asl_3328k_p36v14.mp4
+t/home/bach/.local/share/vifm/Trash/000_190825_michel_schule_asl_3328k_p36v14.mp4
+	/home/bach/Videos/190825_michel_schule_asl_3328k_p36v14.mp4
+t/home/bach/.local/share/vifm/Trash/000_191104_lotta_zieht_um_kfi_3328k_p36v14.mp4
+	/home/bach/Videos/191104_lotta_zieht_um_kfi_3328k_p36v14.mp4
+t/home/bach/.local/share/vifm/Trash/000_191104_michel_maennchen_asl_3328k_p36v14.mp4
+	/home/bach/Videos/191104_michel_maennchen_asl_3328k_p36v14.mp4
+t/home/bach/.local/share/vifm/Trash/000_191104_michel_suppenschuessel_asl_3328k_p36v14.mp4
+	/home/bach/Videos/191104_michel_suppenschuessel_asl_3328k_p36v14.mp4
+t/home/bach/.local/share/vifm/Trash/000_191104_michel_welt_ordnung_asl_3328k_p36v14.mp4
+	/home/bach/Videos/191104_michel_welt_ordnung_asl_3328k_p36v14.mp4
+t/home/bach/.local/share/vifm/Trash/000_200704_0910_pippi_neue_freunde_asl_3360k_p36v15.mp4
+	/home/bach/Videos/200704_0910_pippi_neue_freunde_asl_3360k_p36v15.mp4
+t/home/bach/.local/share/vifm/Trash/000_200711_0940_pippi_sachen_suche_asl_3360k_p36v15.mp4
+	/home/bach/Videos/200711_0940_pippi_sachen_suche_asl_3360k_p36v15.mp4
+t/home/bach/.local/share/vifm/Trash/000_200718_0940_pippi_ausflug_asl_3360k_p36v15.mp4
+	/home/bach/Videos/200718_0940_pippi_ausflug_asl_3360k_p36v15.mp4
+t/home/bach/.local/share/vifm/Trash/000_200725_folge5_michel_fest_armen_asl_3360k_p36v15.mp4
+	/home/bach/Videos/200725_folge5_michel_fest_armen_asl_3360k_p36v15.mp4
+t/home/bach/.local/share/vifm/Trash/000_200725_pippi_gespenster_asl_3360k_p36v15.mp4
+	/home/bach/Videos/200725_pippi_gespenster_asl_3360k_p36v15.mp4
+t/home/bach/.local/share/vifm/Trash/000_200801_0940_folge6_pippi_rummelplatz_asl_3360k_p36v15.mp4
+	/home/bach/Videos/200801_0940_folge6_pippi_rummelplatz_asl_3360k_p36v15.mp4
+t/home/bach/.local/share/vifm/Trash/000_200808_pippi_plutimikation_asl_3360k_p36v15.mp4
+	/home/bach/Videos/200808_pippi_plutimikation_asl_3360k_p36v15.mp4
+t/home/bach/.local/share/vifm/Trash/000_200813_wen_michel_mag_asl_3360k_p36v15.mp4
+	/home/bach/Videos/200813_wen_michel_mag_asl_3360k_p36v15.mp4
+t/home/bach/.local/share/vifm/Trash/000_200815_0940_folge8_pippi_weihnachtsfest_asl_3360k_p36v15.mp4
+	/home/bach/Videos/200815_0940_folge8_pippi_weihnachtsfest_asl_3360k_p36v15.mp4
+t/home/bach/.local/share/vifm/Trash/000_200822_0940_folge9_pippi_spunk_asl_3360k_p36v15.mp4
+	/home/bach/Videos/200822_0940_folge9_pippi_spunk_asl_3360k_p36v15.mp4
+t/home/bach/.local/share/vifm/Trash/000_200829_michel_gute_vorsaetze_asl_3360k_p36v15.mp4
+	/home/bach/Videos/200829_michel_gute_vorsaetze_asl_3360k_p36v15.mp4
+t/home/bach/.local/share/vifm/Trash/000_200903_pippi_flaschenpost_asl_3360k_p36v15.mp4
+	/home/bach/Videos/200903_pippi_flaschenpost_asl_3360k_p36v15.mp4
+t/home/bach/.local/share/vifm/Trash/000_200912_1000_michel_kirschen_asl_3360k_p36v15.mp4
+	/home/bach/Videos/200912_1000_michel_kirschen_asl_3360k_p36v15.mp4
+t/home/bach/.local/share/vifm/Trash/000_200912_pippi_abschiedsfest_asl_3360k_p36v15.mp4
+	/home/bach/Videos/200912_pippi_abschiedsfest_asl_3360k_p36v15.mp4
+t/home/bach/.local/share/vifm/Trash/000_200919_1000_michel_held_asl_3360k_p36v15.mp4
+	/home/bach/Videos/200919_1000_michel_held_asl_3360k_p36v15.mp4
+t/home/bach/.local/share/vifm/Trash/000_200919_pippi_an_bord_asl_3360k_p36v15.mp4
+	/home/bach/Videos/200919_pippi_an_bord_asl_3360k_p36v15.mp4
+t/home/bach/.local/share/vifm/Trash/000_201010_pippi_seeraeuber_teil3_asl_3360k_p36v15.mp4
+	/home/bach/Videos/201010_pippi_seeraeuber_teil3_asl_3360k_p36v15.mp4
+t/home/bach/.local/share/vifm/Trash/000_201010_pippi_seeraeuber_teil4_asl_3360k_p36v15.mp4
+	/home/bach/Videos/201010_pippi_seeraeuber_teil4_asl_3360k_p36v15.mp4
+t/home/bach/.local/share/vifm/Trash/000_fetch_movie
+	/home/bach/Videos/fetch_movie
+t/home/bach/.local/share/vifm/Trash/000_fetch_series.sh
+	/home/bach/Videos/fetch_series.sh
+t/home/bach/.local/share/vifm/Trash/000_priotas.ssh
+	/home/bach/priotas.ssh
+t/home/bach/.local/share/vifm/Trash/000_01 - Oft gefragt (1).mp3
+	/home/bach/Downloads/01 - Oft gefragt (1).mp3
+t/home/bach/.local/share/vifm/Trash/000_01 - Oft gefragt.mp3
+	/home/bach/Downloads/01 - Oft gefragt.mp3
+t/home/bach/.local/share/vifm/Trash/000_02 - Pocahontas.mp3
+	/home/bach/Downloads/02 - Pocahontas.mp3
+t/home/bach/.local/share/vifm/Trash/000_03 - Es geht mir gut.mp3
+	/home/bach/Downloads/03 - Es geht mir gut.mp3
+t/home/bach/.local/share/vifm/Trash/000_04 - 3. Stock.mp3
+	/home/bach/Downloads/04 - 3. Stock.mp3
+t/home/bach/.local/share/vifm/Trash/000_05 - Wohin du gehst.mp3
+	/home/bach/Downloads/05 - Wohin du gehst.mp3
+t/home/bach/.local/share/vifm/Trash/000_06 - Mir wär' lieber, du weinst.mp3
+	/home/bach/Downloads/06 - Mir wär' lieber, du weinst.mp3
+t/home/bach/.local/share/vifm/Trash/000_07 - Bitte bleib.mp3
+	/home/bach/Downloads/07 - Bitte bleib.mp3
+t/home/bach/.local/share/vifm/Trash/000_08 - Neues Zimmer [Explicit].mp3
+	/home/bach/Downloads/08 - Neues Zimmer [Explicit].mp3
+t/home/bach/.local/share/vifm/Trash/000_confgi
+	/home/bach/.ssh/confgi
+t/home/bach/.local/share/vifm/Trash/000_+1
+	/home/bach/ssh_targets/dingo/bach/+1
+t/home/bach/.local/share/vifm/Trash/000_a
+	/home/bach/ssh_targets/dingo/bach/a
+t/home/bach/.local/share/vifm/Trash/000_aaaaa.txt
+	/home/bach/ssh_targets/dingo/bach/aaaaa.txt
+t/home/bach/.local/share/vifm/Trash/000_aaa.http
+	/home/bach/ssh_targets/dingo/bach/aaa.http
+t/home/bach/.local/share/vifm/Trash/000_unterschrift.gif
+	/home/bach/Bilder/unterschrift.gif
+t/home/bach/.local/share/vifm/Trash/000_unterschrift2.gif
+	/home/bach/Bilder/unterschrift2.gif
+t/home/bach/.local/share/vifm/Trash/000_unterschrift2.gif~
+	/home/bach/Bilder/unterschrift2.gif~
+t/home/bach/.local/share/vifm/Trash/000_unterschrift3.gif
+	/home/bach/Bilder/unterschrift3.gif
+t/home/bach/.local/share/vifm/Trash/000_unterschrift3.jpg
+	/home/bach/Bilder/unterschrift3.jpg
+t/home/bach/.local/share/vifm/Trash/000_alacritty
+	/home/bach/alacritty
+t/home/bach/.local/share/vifm/Trash/000_WLAN-Zugang_Gastzugansdaten.pdf
+	/home/bach/Dokumente/WLAN-Zugang_Gastzugansdaten.pdf
+t/home/bach/.local/share/vifm/Trash/000_CoronaTimeSeriesData.csv
+	/home/bach/Dokumente/Deutsche_Glasfaser/CoronaTimeSeriesData.csv
+t/home/bach/.local/share/vifm/Trash/000_dingo
+	/home/bach/ssh_targets/dingo
+t/home/bach/.local/share/vifm/Trash/000_GraphQl
+	/home/bach/.local/share/vifm/fuse/001_dingo.ssh/Projects/GraphQl
+t/home/bach/.local/share/vifm/Trash/001_01 - Oft gefragt (1).mp3
+	/home/bach/Musik/01 - Oft gefragt (1).mp3
+t/home/bach/.local/share/vifm/fuse/001_dingo.ssh/.vifm-Trash-1000/000_deka2020
+	/home/bach/.local/share/vifm/fuse/001_dingo.ssh/deka2020
+t/home/bach/.local/share/vifm/Trash/000_Bildschirmfoto vom 2021-01-20 10-29-39.png
+	/home/bach/Bilder/Bildschirmfoto vom 2021-01-20 10-29-39.png
+t/home/bach/.local/share/vifm/Trash/000_Bildschirmfoto von 2020-06-10 22-00-23.png
+	/home/bach/Bilder/Bildschirmfoto von 2020-06-10 22-00-23.png
+t/home/bach/.local/share/vifm/Trash/000_Bildschirmfoto von 2020-06-10 22-00-24.png
+	/home/bach/Bilder/Bildschirmfoto von 2020-06-10 22-00-24.png
+t/home/bach/.local/share/vifm/Trash/000_Bildschirmfoto von 2020-06-11 22-46-38.png
+	/home/bach/Bilder/Bildschirmfoto von 2020-06-11 22-46-38.png
+t/home/bach/.local/share/vifm/Trash/000_Bildschirmfoto von 2020-06-13 20-41-55.png
+	/home/bach/Bilder/Bildschirmfoto von 2020-06-13 20-41-55.png
+t/home/bach/.local/share/vifm/Trash/000_Bildschirmfoto von 2021-02-26 17-37-09.png
+	/home/bach/Bilder/Bildschirmfoto von 2021-02-26 17-37-09.png
+t/home/bach/.local/share/vifm/Trash/000_Bildschirmfoto von 2020-06-13 20-42-32.png
+	/home/bach/Bilder/Bildschirmfoto von 2020-06-13 20-42-32.png
+t/home/bach/.local/share/vifm/Trash/000_Bildschirmfoto von 2020-12-03 20-41-18.png
+	/home/bach/Bilder/Bildschirmfoto von 2020-12-03 20-41-18.png
+t/home/bach/.local/share/vifm/Trash/000_Bildschirmfoto von 2021-01-20 10-16-20.png
+	/home/bach/Bilder/Bildschirmfoto von 2021-01-20 10-16-20.png
+t/home/bach/.local/share/vifm/Trash/000_Bildschirmfoto von 2021-02-06 19-41-14.png
+	/home/bach/Bilder/Bildschirmfoto von 2021-02-06 19-41-14.png
+t/home/bach/.local/share/vifm/Trash/000_Bildschirmfoto von 2021-02-17 21-34-43.png
+	/home/bach/Bilder/Bildschirmfoto von 2021-02-17 21-34-43.png
+t/home/bach/.local/share/vifm/Trash/000_Bildschirmfoto von 2021-02-26 16-08-08.png
+	/home/bach/Bilder/Bildschirmfoto von 2021-02-26 16-08-08.png
+t/home/bach/.local/share/vifm/Trash/000_Bildschirmfoto von 2021-03-01 11-22-11.png
+	/home/bach/Bilder/Bildschirmfoto von 2021-03-01 11-22-11.png
+t/home/bach/.local/share/vifm/Trash/000_Bildschirmfoto von 2021-03-01 11-25-16.png
+	/home/bach/Bilder/Bildschirmfoto von 2021-03-01 11-25-16.png
+t/home/bach/.local/share/vifm/Trash/000_Bildschirmfoto von 2021-03-01 11-25-17.png
+	/home/bach/Bilder/Bildschirmfoto von 2021-03-01 11-25-17.png
+t/home/bach/.local/share/vifm/Trash/000_Bildschirmfoto von 2021-03-01 14-22-24.png
+	/home/bach/Bilder/Bildschirmfoto von 2021-03-01 14-22-24.png
+t/home/bach/.local/share/vifm/Trash/000_Bildschirmfoto von 2021-03-13 09-57-27.png
+	/home/bach/Bilder/Bildschirmfoto von 2021-03-13 09-57-27.png
+
+# State:
+f
+i1
+[.1
+[F
+F
+I1
+].0
+]F
+s0
