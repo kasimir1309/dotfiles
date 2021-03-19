@@ -273,6 +273,8 @@ fileviewer *.gif
 filextype *.doc,*.docx,*.xls,*.xlsx libreoffice %f &
 fileview *.docx, ./dotfiles/vifm/scripts/docx2txt.pl %f -
 
+fileview *.xlsx xlsx2csv %f | head -n30 -
+
 " OpenRaster
 filextype *.ora
         \ {Edit in MyPaint}
