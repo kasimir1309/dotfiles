@@ -142,3 +142,15 @@ bindkey -s '\ek' 'tmux select-pane -U\n'
 
 
 [ -d /home/$USER/.apps ] && export PATH="/home/$USER/.apps:$PATH"
+
+alias p="~/.apps/home_dir_search"
+
+
+# Add fzf git functions to shortcuts
+# Call gf for git status (files)
+# Call gh for git log (history)
+# Call gb for git branch
+# Call gr for git remote
+[ -f ./fzf_git_functions ] && source ./fzf_git_functions
+
+
