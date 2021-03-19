@@ -46,9 +46,6 @@ l2
 r2
 
 # Left window history (oldest to newest):
-d/home/bach/ssh_targets
-	dingo
-1
 d/home/bach/ssh_targets/dingo
 	..
 0
@@ -346,6 +343,9 @@ d/home/bach/Downloads/browserpass-linux64-3.0.7
 d/home/bach/Downloads
 	190818_seeraeuber03_asl_3328k_p36v14.mp4
 4
+d/home/bach
+	index.html
+18
 d
 
 # Right window history (oldest to newest):
@@ -506,12 +506,12 @@ D
 :smb
 :e scp://bach@192.168.188.23//home/bach/
 :e scp://bach@192.168.188.23//home/bach/.vimrc
-:q:q
 :run
 :mkdir dingo
 :help
 :exit
 :edit
+:q:q
 :q
 
 # Search history (oldest to newest):

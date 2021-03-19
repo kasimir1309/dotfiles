@@ -19,4 +19,5 @@ ln -s .dotfiles/.fzf.zsh .fzf.zsh
 
 cd ~/.config/
 ln -s ../.dotfiles/nvim nvim
+ln -s ../.dotfiles/vifm vifm
 ```
