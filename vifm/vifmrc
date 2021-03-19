@@ -269,6 +269,10 @@ fileviewer *.gif
         \ %pc
         \ vifmimg clear
 
+" Office files
+filextype *.doc,*.docx,*.xls,*.xlsx libreoffice %f &
+fileview *.docx, ./dotfiles/vifm/scripts/docx2txt.pl %f -
+
 " OpenRaster
 filextype *.ora
         \ {Edit in MyPaint}

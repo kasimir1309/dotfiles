@@ -21,3 +21,12 @@ cd ~/.config/
 ln -s ../.dotfiles/nvim nvim
 ln -s ../.dotfiles/vifm vifm
 ```
+
+
+# Vifm scripts
+```bash
+cd ~/.dotfiles/vifm/scripts
+chmod +x docx2txt.pl
+chmod +x vifmimg
+chmod +x vifmrun
+```
