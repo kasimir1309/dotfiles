@@ -151,6 +151,5 @@ alias p="~/.apps/home_dir_search"
 # Call gh for git log (history)
 # Call gb for git branch
 # Call gr for git remote
-[ -f ./fzf_git_functions ] && source ./fzf_git_functions
-
+[ -f ~/.dotfiles/fzf_git_functions ] && source ~/.dotfiles/fzf_git_functions
 
