@@ -30,3 +30,9 @@ chmod +x docx2txt.pl
 chmod +x vifmimg
 chmod +x vifmrun
 ```
+
+# Python scripts ...
+that should be installed
+```
+pip3 install xlsx2csv ueberzug
+```
