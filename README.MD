@@ -36,3 +36,8 @@ that should be installed
 ```
 pip3 install xlsx2csv ueberzug
 ```
+
+# Pakete installieren mit Apt
+```bash
+sudo apt install ffmpegthumbnailer ffmpeg mplayer
+```
