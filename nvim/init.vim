@@ -61,7 +61,9 @@ Plug 'airblade/vim-gitgutter'  "Shows git changes at the left side
 Plug 'norcalli/nvim-colorizer.lua'
 Plug 'mattn/emmet-vim'  " Emmet html short cuts
 
-Plug 'prettier/vim-prettier'  "Nicefy format
+Plug 'prettier/vim-prettier', {
+  \ 'do': 'yarn install',
+  \ 'for': ['javascript', 'typescript', 'css', 'less', 'scss', 'json', 'graphql', 'markdown', 'angular', 'vue', 'yaml', 'html', 'php'] }
 
 Plug 'rrethy/vim-hexokinase', { 'do': 'make hexokinase' }
 Plug 'vimwiki/vimwiki'  " Vim wiki plugin
@@ -79,7 +81,6 @@ Plug 'airblade/vim-rooter'
 Plug 'jremmen/vim-ripgrep'
 Plug 'kiteco/vim-plugin'
 Plug 'TimUntersberger/neogit'
-Plug 'preservim/nerdtree'
 call plug#end()
 
 
@@ -291,4 +292,9 @@ let g:vifm_replace_netrw_cmd = "Vifm"
 nmap <leader>, :TabVifm<CR>
 nmap <leader>. <C-w>s<C-w><Down><ESC>:TabVifm<CR>
 
-map <C-n> :NERDTreeToggle<CR>
+map <tab> :bNext<CR>
+
+" Autoformat code with prettier
+let g:prettier#autoformat = 1
+let g:prettier#autoformat_require_pragma = 0
+
