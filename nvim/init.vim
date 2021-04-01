@@ -79,6 +79,7 @@ Plug 'airblade/vim-rooter'
 Plug 'jremmen/vim-ripgrep'
 Plug 'kiteco/vim-plugin'
 Plug 'TimUntersberger/neogit'
+Plug 'preservim/nerdtree'
 call plug#end()
 
 
@@ -289,3 +290,5 @@ let g:vifm_replace_netrw_cmd = "Vifm"
 
 nmap <leader>, :TabVifm<CR>
 nmap <leader>. <C-w>s<C-w><Down><ESC>:TabVifm<CR>
+
+map <C-n> :NERDTreeToggle<CR>
