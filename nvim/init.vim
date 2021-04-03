@@ -35,7 +35,7 @@ call plug#begin('~/.vim/plugged')
 Plug 'neoclide/coc.nvim', {'do': 'yarn install --frozen-lockfile'}
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
 " coc extensions
-"let g:coc_global_extensions = ['coc-tslint-plugin', 'coc-tsserver', 'coc-emmet', 'coc-css', 'coc-html', 'coc-json', 'coc-yank', 'coc-prettier', 'coc-phpls', 'coc-python', 'coc-angular', 'coc-explorer', 'coc-snippets']
+let g:coc_global_extensions = ['coc-tslint-plugin', 'coc-tsserver', 'coc-emmet', 'coc-css', 'coc-html', 'coc-json', 'coc-yank', 'coc-prettier', 'coc-phpls', 'coc-python', 'coc-angular', 'coc-explorer', 'coc-snippets']
 "------------------------ VIM TSX ------------------------
 " by default, if you open tsx file, neovim does not show syntax colors
 " vim-tsx will do all the coloring for jsx in the .tsx file
@@ -79,13 +79,18 @@ Plug 'baverman/vial-http'
 Plug 'christoomey/vim-tmux-navigator'
 Plug 'airblade/vim-rooter'
 Plug 'jremmen/vim-ripgrep'
-Plug 'kiteco/vim-plugin'
+"Plug 'kiteco/vim-plugin'
 Plug 'TimUntersberger/neogit'
+
+Plug 'heavenshell/vim-jsdoc', {
+  \ 'for': ['javascript', 'javascript.jsx','typescript'],
+  \ 'do': 'make install'
+\}
 call plug#end()
 
 
 " All the languages Kite supports
-let g:kite_supported_languages = ['*']
+"let g:kite_supported_languages = ['*']
 
 
 " == VIMPLUG END ================================
