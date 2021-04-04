@@ -304,3 +304,7 @@ let g:prettier#autoformat = 1
 let g:prettier#autoformat_require_pragma = 0
 
 nmap <leader>d :JsDoc<CR>
+
+" Go to definition or show it in splut
+nmap <silent> gd :call CocAction('jumpDefinition', 'split')<CR>
+nmap <silent> gt :call CocAction('jumpDefinition', 'tabe')<CR>
