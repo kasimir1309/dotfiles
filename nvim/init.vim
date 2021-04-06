@@ -13,6 +13,8 @@ set nobackup
 set undodir=~/.vim/undodir
 set undofile
 set incsearch
+set spelllang=en_gb
+set spell
 "
 " Give more space for displaying messages.
 set cmdheight=2
@@ -86,6 +88,7 @@ Plug 'heavenshell/vim-jsdoc', {
   \ 'for': ['javascript', 'javascript.jsx','typescript'],
   \ 'do': 'make install'
 \}
+Plug 'jose-elias-alvarez/nvim-lsp-ts-utils'
 call plug#end()
 
 
