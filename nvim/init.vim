@@ -70,7 +70,7 @@ Plug 'vimwiki/vimwiki'  " Vim wiki plugin
 Plug 'mhinz/vim-startify'  " Startpage for vim
 Plug 'dyng/ctrlsf.vim'   " ag/grep in vim
 Plug 'norcalli/nvim-colorizer.lua'  " Colors in css or scss files
-Plug 'vifm/vifm.vim'
+"Plug 'vifm/vifm.vim'
 "Plug 'diepm/vim-rest-console'  "Rest client
 
 Plug 'baverman/vial'
