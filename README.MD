@@ -42,8 +42,14 @@ pip3 install xlsx2csv ueberzug
 sudo apt install ffmpegthumbnailer ffmpeg mplayer
 ```
 
-#Call command in nvim
+# Call command in nvim
 Install all server you will use in vim
 ```
 :CocInstall coc-json coc-tslint-plugin coc-tsserver coc-angular coc-snippets coc-emmet coc-phpls coc-python coc-prettier
 ```
+
+# Nice shortcuts
+
+| Shortcut | Description |
+|----------|----------------------------------------------------------|
+| leader+gs| Git status view                                          |
