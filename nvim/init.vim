@@ -325,3 +325,4 @@ nmap <leader>wq :wq<CR>
 
 " Toggle undo tool with preview
 nnoremap <F5> :MundoToggle<CR>
+nmap <leader>co :! git checkout %<CR>
