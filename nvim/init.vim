@@ -36,6 +36,7 @@ call plug#begin('~/.vim/plugged')
 " coc for tslinting, auto complete and prettier
 Plug 'neoclide/coc.nvim', {'do': 'yarn install --frozen-lockfile'}
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
+
 " coc extensions
 let g:coc_global_extensions = ['coc-tslint-plugin', 'coc-tsserver', 'coc-emmet', 'coc-css', 'coc-html', 'coc-json', 'coc-yank', 'coc-prettier', 'coc-phpls', 'coc-python', 'coc-angular', 'coc-explorer', 'coc-snippets']
 "------------------------ VIM TSX ------------------------
@@ -63,6 +64,7 @@ Plug 'airblade/vim-gitgutter'  "Shows git changes at the left side
 Plug 'norcalli/nvim-colorizer.lua'
 Plug 'mattn/emmet-vim'  " Emmet html short cuts
 
+" Make code prettier
 Plug 'prettier/vim-prettier', {
   \ 'do': 'yarn install',
   \ 'for': ['javascript', 'typescript', 'css', 'less', 'scss', 'json', 'graphql', 'markdown', 'angular', 'vue', 'yaml', 'html', 'php'] }
@@ -78,17 +80,22 @@ Plug 'norcalli/nvim-colorizer.lua'  " Colors in css or scss files
 Plug 'baverman/vial'
 Plug 'baverman/vial-http'
 
+" Help for navigate with tmux and vim
 Plug 'christoomey/vim-tmux-navigator'
 Plug 'airblade/vim-rooter'
 Plug 'jremmen/vim-ripgrep'
 "Plug 'kiteco/vim-plugin'
 Plug 'TimUntersberger/neogit'
 
+" Javascipt docs
 Plug 'heavenshell/vim-jsdoc', {
   \ 'for': ['javascript', 'javascript.jsx','typescript'],
   \ 'do': 'make install'
 \}
 Plug 'jose-elias-alvarez/nvim-lsp-ts-utils'
+
+"Plugin for undoing steps with pre view
+Plug 'simnalamburt/vim-mundo'
 call plug#end()
 
 
@@ -316,3 +323,5 @@ nmap <leader>q :q<CR>
 nmap <leader>w :w<CR>
 nmap <leader>wq :wq<CR>
 
+" Toggle undo tool with preview
+nnoremap <F5> :MundoToggle<CR>
