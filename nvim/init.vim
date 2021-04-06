@@ -311,3 +311,8 @@ nmap <leader>d :JsDoc<CR>
 " Go to definition or show it in splut
 nmap <silent> gd :call CocAction('jumpDefinition', 'split')<CR>
 nmap <silent> gt :call CocAction('jumpDefinition', 'tabe')<CR>
+
+nmap <leader>q :q<CR>
+nmap <leader>w :w<CR>
+nmap <leader>wq :wq<CR>
+
