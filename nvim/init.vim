@@ -96,6 +96,11 @@ Plug 'jose-elias-alvarez/nvim-lsp-ts-utils'
 
 "Plugin for undoing steps with pre view
 Plug 'simnalamburt/vim-mundo'
+
+
+Plug 'nvim-lua/popup.nvim'
+Plug 'nvim-lua/plenary.nvim'
+Plug 'nvim-telescope/telescope.nvim'
 call plug#end()
 
 
@@ -326,3 +331,10 @@ nmap <leader>wq :wq<CR>
 " Toggle undo tool with preview
 nnoremap <F5> :MundoToggle<CR>
 nmap <leader>co :! git checkout %<CR>
+
+
+" Find files using Telescope command-line sugar.
+nnoremap <leader>ff <cmd>Telescope find_files<cr>
+nnoremap <leader>fg <cmd>Telescope live_grep<cr>
+nnoremap <leader>fb <cmd>Telescope buffers<cr>
+nnoremap <leader>fh <cmd>Telescope help_tags<cr>
