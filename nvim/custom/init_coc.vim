@@ -22,8 +22,7 @@ autocmd BufEnter * if (winnr("$") == 1 && &filetype == 'coc-explorer') | q | end
 
 """"""""""""""""""""""""""""""""""""""""""""
 " end explorer
-"
-
+""""""""""""""""""""""""""""""""""""""""""""
 
 " Use <C-l> for trigger snippet expand.
 imap <C-l> <Plug>(coc-snippets-expand)
