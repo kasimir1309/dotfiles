@@ -153,3 +153,4 @@ alias p="~/.apps/home_dir_search"
 # Call gr for git remote
 [ -f ~/.dotfiles/fzf_git_functions ] && source ~/.dotfiles/fzf_git_functions
 
+export PATH=$HOME/.config/nvcode/utils/bin:$PATH
