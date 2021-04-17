@@ -39,9 +39,6 @@ nmap <leader>A <Plug>CtrlSFCwordPath -W<CR>
 nmap <C-F> :CtrlSF -R ""<Left>
 nmap <C-f> <Plug>CtrlSFCwordPath -W<CR>
 
-" Open help
-nmap <leader>k :sp ~/.dotfiles/nvim/custom/init_keys.vim<CR>
-
 " Control P opens file search
 nnoremap <C-p> <cmd>Telescope find_files<cr>
 
@@ -60,8 +57,6 @@ nmap <M-k> :resize-5<CR>  " Resize the current window to top
 " Switch to next tab
 map <tab> :bNext<CR>
 
-" Insert jsdoc to a class var or function
-nmap <leader>d :JsDoc<CR>
 
 " Go to definition or show it in splut
 nmap <silent> gd :call CocAction('jumpDefinition', 'split')<CR>
@@ -69,6 +64,7 @@ nmap <silent> gt :call CocAction('jumpDefinition', 'tabe')<CR>
 
 " Checkout file from git repository before change
 nmap <leader>co :! git checkout %<CR>
+nmap <leader>gc :Telescope git_commits<CR>
 
 " Find files using Telescope command-line sugar.
 nnoremap <leader>ff <cmd>Telescope find_files<cr>
@@ -76,7 +72,9 @@ nnoremap <leader>fg <cmd>Telescope live_grep<cr>
 nnoremap <leader>fb <cmd>Telescope buffers<cr>
 nnoremap <leader>fh <cmd>Telescope help_tags<cr>
 
-" quick save or quit options
-nmap <leader>q :q<CR>
-nmap <leader>w :w<CR>
-nmap <leader>wq :wq<CR>
+nmap <leader>d :JsDoc<CR> " Insert jsdoc to a class var or function
+nmap <leader>q :q<CR> " Quick quit
+nmap <leader>w :w<CR> " Quick write
+nmap <leader>wq :wq<CR> " Quick write and quit
+nmap <leader>s :Startify<cr> " Return to start screen
+nmap <leader>k :e ~/.dotfiles/nvim/custom/init_keys.vim<cr> " Open this file
