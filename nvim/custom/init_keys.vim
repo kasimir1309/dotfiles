@@ -7,6 +7,11 @@ let mapleader = " "
 vnoremap J :m '>+1<CR>gv=gv
 vnoremap K :m '<-2<CR>gv=gv
 
+" Jump a word in insert mode
+inoremap <C-w> <C-o>w
+" Jump back a word in insert mode
+inoremap <C-b> <C-o>b
+
 " Snippets support
 let g:UltiSnipsExpandTrigger="<c-s>"
 let g:UltiSnipsJumpForwardTrigger="<c-b>"
