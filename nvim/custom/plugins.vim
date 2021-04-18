@@ -66,6 +66,8 @@ Plug 'simnalamburt/vim-mundo'
 Plug 'nvim-lua/popup.nvim'
 Plug 'nvim-lua/plenary.nvim'
 Plug 'nvim-telescope/telescope.nvim'
+
+Plug 'rstacruz/vim-closer'  " Closes brackets for you
 call plug#end()
 
 " == VIMPLUG END ================================
