@@ -34,6 +34,7 @@ nmap <leader>rt :!npm run test<CR>
 nmap <leader>gs :TigOpenProjectRootDir<CR>
 nmap <leader>gb :Git blame<CR>
 nmap <leader>gl :Git log<CR>
+nmap <leader>gp :Git push<CR>
 
 "runs prettier, to niceify file in buffer
 nmap <Leader>fo <Plug>(Prettier)
