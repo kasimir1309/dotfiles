@@ -30,7 +30,8 @@ nnoremap <Leader>ps :Rg<SPACE>
 nmap <leader>rt :!npm run test<CR>
 
 " Git support
-nmap <leader>gs :Neogit<CR>
+"nmap <leader>gs :Neogit<CR>
+nmap <leader>gs :TigOpenProjectRootDir<CR>
 nmap <leader>gb :Git blame<CR>
 nmap <leader>gl :Git log<CR>
 

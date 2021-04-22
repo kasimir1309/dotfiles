@@ -51,7 +51,7 @@ Plug 'baverman/vial-http'
 Plug 'christoomey/vim-tmux-navigator'
 Plug 'airblade/vim-rooter'
 Plug 'jremmen/vim-ripgrep'
-Plug 'TimUntersberger/neogit'
+"Plug 'TimUntersberger/neogit'
 
 " Javascipt docs
 Plug 'heavenshell/vim-jsdoc', {
@@ -68,6 +68,9 @@ Plug 'nvim-lua/plenary.nvim'
 Plug 'nvim-telescope/telescope.nvim'
 
 Plug 'rstacruz/vim-closer'  " Closes brackets for you
+
+" Tig integration to vim
+Plug 'iberianpig/tig-explorer.vim'
 call plug#end()
 
 " == VIMPLUG END ================================
