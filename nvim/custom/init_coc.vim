@@ -67,7 +67,6 @@ fun! GoCoc()
     nmap <buffer> <leader>gi <Plug>(coc-implementation)
     nmap <buffer> <leader>gr <Plug>(coc-references)
     nnoremap <buffer> <leader>cr :CocRestart
-    nmap <buffer> <leader>gs :Neogit<CR>
     nmap <buffer> <leader>gc :Git commit<CR>
     nmap <buffer> <leader>gb :Git blame<CR>
     nmap <buffer> <leader>gg :Gdiffsplit<CR>

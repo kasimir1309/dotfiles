@@ -11,6 +11,7 @@ vnoremap K :m '<-2<CR>gv=gv
 inoremap <C-w> <C-o>w
 " Jump back a word in insert mode
 inoremap <C-b> <C-o>b
+inoremap <C-A> <C-o>A
 
 " Snippets support
 let g:UltiSnipsExpandTrigger="<c-s>"
@@ -30,7 +31,6 @@ nnoremap <Leader>ps :Rg<SPACE>
 nmap <leader>rt :!npm run test<CR>
 
 " Git support
-"nmap <leader>gs :Neogit<CR>
 nmap <leader>gs :TigOpenProjectRootDir<CR>
 nmap <leader>gb :Git blame<CR>
 nmap <leader>gl :Git log<CR>
