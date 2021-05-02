@@ -36,12 +36,7 @@ that should be installed
 ```
 pip3 install xlsx2csv ueberzug
 ```
-
-# Pakete installieren mit Apt
-```bash
-sudo apt install ffmpegthumbnailer ffmpeg mplayer
-```
-
+# Pakete installieren mit Apt ```bash sudo apt install ffmpegthumbnailer ffmpeg mplayer ```
 # Call command in nvim
 Install all server you will use in vim
 ```
@@ -53,3 +48,22 @@ Install all server you will use in vim
 | Shortcut | Description |
 |----------|----------------------------------------------------------|
 | leader+gs| Git status view                                          |
+
+
+
+
+# Change up/down navigation in teleskope
+... to j and k.
+
+Open the file
+```
+cd ~/.vim
+./lua/telescope/mappings.lua
+```
+
+change the next and previos selection as follows:
+
+```
+      ["<C-j>"] = actions.move_selection_next,
+      ["<C-k>"] = actions.move_selection_previous,
+```
