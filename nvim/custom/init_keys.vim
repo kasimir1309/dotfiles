@@ -85,3 +85,6 @@ nmap <leader>w :w<CR> " Quick write
 nmap <leader>wq :wq<CR> " Quick write and quit
 nmap <leader>s :Startify<cr> " Return to start screen
 nmap <leader>k :e ~/.dotfiles/nvim/custom/init_keys.vim<cr> " Open this file
+nmap <leader>conf :e ~/.dotfiles/nvim/init.vim<cr>
+nmap <leader>plug :e ~/.dotfiles/nvim/custom/plugins.vim<cr>
+

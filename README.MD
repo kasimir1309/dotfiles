@@ -48,8 +48,19 @@ Install all server you will use in vim
 | Shortcut | Description |
 |----------|----------------------------------------------------------|
 | leader+gs| Git status view                                          |
-
-
+| leader+co| Git checkout for the current file in buffer              |
+| leader+gl| Git log                                                  |
+| leader+ff| Find file in current (sub)dirs (fuzzy)                   |
+| leader+fg| File grep in Fuzzy teleskop                              |
+| leader+a | An other file grep                                       |
+| leader+fo| Format file in buffer                                    |
+| Ctr+F    | Finds word below cursor                                  |
+| leader+d | Insert jsdoc to a class var or function                  |
+| leader+q | Quick quit                                               |
+| leader+w | Quick write                                              |
+| leader+wq| Quick write and quit                                     |
+| leader+s | Return to start screen                                   |
+| leader+k | Opens Shortcur file                                      |
 
 
 # Change up/down navigation in teleskope
