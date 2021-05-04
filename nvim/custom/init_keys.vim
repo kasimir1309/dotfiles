@@ -88,3 +88,6 @@ nmap <leader>k :e ~/.dotfiles/nvim/custom/init_keys.vim<cr> " Open this file
 nmap <leader>conf :e ~/.dotfiles/nvim/init.vim<cr>
 nmap <leader>plug :e ~/.dotfiles/nvim/custom/plugins.vim<cr>
 
+" Copy to system clipboard
+vnoremap <C-c> "*y
+
