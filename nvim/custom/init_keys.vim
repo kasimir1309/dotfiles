@@ -48,7 +48,7 @@ nmap <C-f> <Plug>CtrlSFCwordPath -W<CR>
 
 " Control P opens file search
 nnoremap <C-p> <cmd>Telescope find_files<cr>
-
+nnoremap <C-P> <cmd>Telescope buffers<cr>
 " Toggle undo tool with preview
 nnoremap <F5> :MundoToggle<CR>
 
